@@ -10,7 +10,11 @@ Este projeto foi desenvolvido para criar um sistema eficiente de gestão de peç
 Foi usado o SQL Server versão 2022. <br>
 Para executar as queries na lista de queries úteis, selecione o bloco que quer executar um de cada vez.
 
+- Queries para criação de tabelas: `criacaoDeTabelas.sql`
+- Queries para a geração de dados: `geracaoDeDados.sql`
+- Queries úteis de seleção: `queriesUteis.sql`
+
 ## Diagrama Relacional
-![Diagrama relacional](./diagramaDeTabelas.png "Diagrama relacional")
+![Diagrama relacional](./modeloRelacional.png "Diagrama relacional")
 
 #### Nós Agradecemos!
